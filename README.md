@@ -31,9 +31,15 @@ Clean, beautiful, and intuitive interface built with Flutter.
 
 ### Latest Version
 
-👉 Download Here:
+👉 Check Version Here:
 
 https://github.com/YOUR_USERNAME/LoveDeck/releases/latest
+
+or
+
+👉 Download Here:
+
+https://github.com/JanSSH/LoveDeck/releases/download/lovedeck/lovedeck.apk
 
 ---
 
