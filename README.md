@@ -42,6 +42,12 @@ or
 https://github.com/JanSSH/LoveDeck/releases/download/lovedeck/lovedeck.apk
 
 ---
+Screenshots
+<p align="center">
+  <img src="assets/pamflet.png" width="250"/>
+</p>
+
+---
 
 ## ❤️ Why LoveDeck?
 
